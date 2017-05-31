@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NextLevelStuff
+namespace TestWindow
 {
-    public class main
+    public class Class1
     {
     }
 }
