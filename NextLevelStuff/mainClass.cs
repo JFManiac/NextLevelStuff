@@ -33,7 +33,7 @@ namespace NextLevelStuff
         }
         string testME2(string val1, string val2, int val3)
         {
-            return "";
+            return "1";
         }
         int testME3(string val1, string val2, int val3)
         {
