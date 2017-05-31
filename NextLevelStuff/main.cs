@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NextLevelStuff
 {
-    public class Class1
+    public class main
     {
     }
 }
