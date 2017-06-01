@@ -31,17 +31,24 @@ namespace NextLevelStuff
             }
 
         }
-        string testME2(string val1, string val2, int val3)
+        public string testME2(string val1, string val2, int val3)
         {
             return "1";
         }
-        int testME3(string val1, string val2, int val3)
+        public int testME3(string val1, string val2, int val3)
         {
-            return 0;
+            return 2;
         }
-        bool testME4(string val1, string val2, int val3)
+        public bool testME4(string val1, string val2, int val3)
         {
-            return false;
+            if (val1 != "")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
         
 

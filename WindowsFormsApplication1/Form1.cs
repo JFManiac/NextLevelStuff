@@ -23,7 +23,9 @@ namespace WindowsFormsApplication1
             mainClass mClass = new mainClass();
 
             label1.Text = mClass.testME1("", "", 233);
-
+            textBox1.Text = mClass.testME2("23", "22", 1);
+            label2.Text = mClass.testME3("A", "B", 3).ToString();
+            radioButton1.Checked = mClass.testME4("", "BB", 2);
         }
     }
 }
